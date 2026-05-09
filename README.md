@@ -1,3 +1,3 @@
 ## iterators-in-javascript
 
-###Iterators in JavaScript's synthesis in code
+### Iterators in JavaScript's synthesis in code
